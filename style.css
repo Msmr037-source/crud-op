@@ -21,7 +21,7 @@ body {
   padding: 30px;
 
   display: flex;
-  flex-direction: column;   /* ✅ vertical layout */
+  flex-direction: column; 
   gap: 15px;
 
   backdrop-filter: blur(15px);
